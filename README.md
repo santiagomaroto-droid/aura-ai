@@ -1,2 +1,2 @@
 # aura-ai
-AURA: Alternative to Transformer AI arquitecture with O(1) Complexity
+AURA: An O(1) Complexity Alternative to the Transformer Architecture
